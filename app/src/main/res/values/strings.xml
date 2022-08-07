@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">List 10 Hospital in The World</string>
+    <string name="hospital_nama">Nama Rumah Sakit</string>
+    <string name="detail">detail</string>
+    <string name="welcome">List 10 Rumah Sakit Terkenal</string>
+    <string name="fasilitas">Fasilitas Rumah Sakit</string>
+    <string name="list">List</string>
+    <string name="lab">Laboratorium</string>
+    <string name="igd">Instalasi Gawat Darurat</string>
+    <string name="room">Ruangan</string>
+    <string name="Detail">Ini akan diisi halaman detail Rumah Sakit</string>
+    <string name="descripsion">Description</string>
+    <string name="about">Tentang Saya</string>
+    <string name="saya">Nama   : Rif-Q Afta Hadi</string>
+    <string name="email">Email : rifqafta32@gmail.com</string>
+    <string name="detail1">Hospital Detail</string>
+    <string name="copyrigt">Copyright By: Rif-Q Afta Hadi</string>
+</resources>
